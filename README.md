@@ -10,12 +10,6 @@
 
 <br/>
 
-## 📚 Library : 개발 공부와 관련된 서적 공부
-
-> [개발 관련 서적을 공부하고 정리하는 Repository](https://github.com/lxxjn0/library)
-
-<br/>
-
 ## 🧑🏻‍💻 Projects : 사이드 프로젝트 및 학습을 위한 개인 프로젝트
 
 ### 👋🏻 SUPP : 식전 수프처럼 페어와의 협업 맛을 돋우는 에피타이저
@@ -61,3 +55,13 @@
 - [스프링 부트와 AWS로 혼자 구현하는 웹 서비스 - 실습 Repository](https://github.com/lxxjn0/springboot-aws-webservice)
 
 <br/>
+
+## 📚 Library : 개발 공부와 관련된 서적 공부
+
+> [개발 관련 서적을 공부하고 정리하는 Repository](https://github.com/lxxjn0/library)
+
+<br/>
+
+## 🔐 Algorithm : 알고리즘 문제 풀이를 정리
+
+> [알고리즘 문제 풀이를 정리하는 Repository](https://github.com/lxxjn0/algorithm-ps)

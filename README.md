@@ -24,9 +24,27 @@
 - [supp](https://github.com/woowa-supp/supp)
 - [supp-chrome-extension](https://github.com/woowa-supp/supp-chrome-extension)
 
-### 👩🏻‍💼 Seller, Lee : 중고 거래를 더 쉽고 간편하게 도와드릴게요, 당신의 비서 Seller, Lee
+### 🐳 직고래 : 조직 내에서 중고 거래를!
 
-> Comming Soon...
+> 참고. 서비스 명이 샐러리(seller-lee)에서 직고래(jikgorae)로 변경되었습니다. repository의 이름에서 혼용되고 있는 점 양해 부탁드립니다 :)
+
+#### 서비스
+
+- [안드로이드 어플 링크](https://play.google.com/store/apps/details?id=com.sellerleecompany.jikgorae)
+- [직고래 데모 사이트](https://sites.google.com/woowahan.com/wooteco-demo/%EC%A7%81%EA%B3%A0%EB%9E%98)
+- [직고래 기술 블로그](https://seller-lee.github.io/)
+
+#### Github Repository
+
+- [seller-lee-company](https://github.com/woowacourse-teams/2020-seller-lee-company)
+- [seller-lee.github.io](https://github.com/seller-lee/seller-lee.github.io)
+
+#### 관련 영상
+
+- [(발표)1차 데모 - 서비스 및 팀 소개](https://www.youtube.com/watch?v=JPmA2tIt8ME)
+- [2차 데모 - 빌드, 배포 그리고 자동화](https://www.youtube.com/watch?v=67TDNiSYRTM)
+- [최종 데모 - 개발문화와 프로젝트를 통해 느낀 점](https://www.youtube.com/watch?v=shq5CLRWB_I)
+- [프로젝트 소개 - 직고래](https://www.youtube.com/watch?v=ECl14dt7sQU)
 
 <br/>
 

@@ -57,11 +57,6 @@
 - [숫자 야구 게임 미션을 TDD로 진행하는 Repository](https://github.com/lxxjn0/java-baseball-review)
 - [자동차 경주 게임 미션을 TDD로 진행하는 Repository](https://github.com/lxxjn0/java-racingcar-review)
 
-#### JPA
-
-- [자바 ORM 표준 JPA 프로그래밍 - 강의 & 교재 정리](https://github.com/lxxjn0/library/tree/master/%EC%9E%90%EB%B0%94-ORM-%ED%91%9C%EC%A4%80-JPA-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)
-- [자바 ORM 표준 JPA 프로그래밍 - 실습 Repository](./)
-
 ### 🌱 Spring
 
 #### Spring
